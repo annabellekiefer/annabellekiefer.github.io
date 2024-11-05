@@ -323,3 +323,13 @@ defaults:
       comments: # true
       share: true
       related: true
+
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "Semester 1"
+    url: "/_pages/semester-1.md"
+  - title: "Unterseite 2"
+    url: "/unterseite2/"
+  - title: "Unterseite 3"
+    url: "/unterseite3/"
