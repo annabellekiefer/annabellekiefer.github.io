@@ -88,6 +88,10 @@ naver_site_verification  :
 yandex_site_verification :
 baidu_site_verification  :
 
+header:
+  overlay_image: /assets/images/weltkugel.jpg
+
+
 # Social Sharing
 twitter:
   username               :
