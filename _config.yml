@@ -10,8 +10,8 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
+theme                    : "minimal-mistakes-jekyll"
+remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -117,7 +117,7 @@ author:
   avatar           : "/assets/images/Profilfoto.jpg"
   bio              : "Master student Copernicus Master in Digital Earth"
   location         : "Paris-Lodron-University Salzburg"
-  email            : #"mailto:annabellekiefer@stud.plus.ac.at"
+  email            : "mailto:annabellekiefer@stud.plus.ac.at"
   #links:
     #- label: "Email"
       #icon: "fas fa-fw fa-envelope-square"
