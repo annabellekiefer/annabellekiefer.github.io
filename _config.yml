@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Portfolio"
+title                    : "E-Portfolio"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Annabelle Kiefer"
@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Annabelle Kiefer"
-  avatar           : "/assets/images/Profilfoto.jpg"
+  avatar           : #"/assets/images/Profilfoto.jpg"
   bio              : "Master Student Copernicus Master in Digital Earth"
   location         : "Paris-Lodron-University Salzburg"
   email            :
@@ -324,3 +324,6 @@ defaults:
       share: true
       related: true
 
+excerpt: "Master Student Copernicus Master in Digital Earth"
+header: "Annabelle Kiefer"
+  overlay_image: /assets/images/weltkugel.jpg
