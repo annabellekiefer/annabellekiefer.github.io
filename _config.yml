@@ -139,7 +139,7 @@ author:
       # url: "https://instagram.com/"
 
 # Site Footer
-footer:
+#footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -324,7 +324,7 @@ defaults:
       share: true
       related: true
 
-main:
+#main:
   - title: "CV"
     url: "/assets/docs/CV_Annabelle_Kiefer.pdf"
   - title: "Certificates"
