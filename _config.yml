@@ -26,7 +26,7 @@ url                      : # the base hostname & protocol for your site e.g. "ht
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     :  "/assets/images/CDE_logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
@@ -117,14 +117,14 @@ author:
   avatar           : "/assets/images/Profilfoto.jpg"
   bio              : "Master student Copernicus Master in Digital Earth"
   location         : "Paris-Lodron-University Salzburg"
-  email            :
+  email            : #"mailto:annabellekiefer@stud.plus.ac.at"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:annabellekiefer@stud.plus.ac.at"
+      url: "mailto:annabellekiefer@stud.plus.ac.at"
     - label: "LinkedIn"
       icon: "fas fa-fw fa-linkedin"
-      # url: "https://www.linkedin.com/in/annabelle-kiefer-380ba929a/"
+       url: "https://www.linkedin.com/in/annabelle-kiefer-380ba929a/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -158,7 +158,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://www.instagram.com/annabellekfr/""
 
 
 # Reading Files
@@ -323,3 +323,11 @@ defaults:
       comments: # true
       share: true
       related: true
+
+main:
+  - title: "CV"
+    "/assets/docs/CV_Annabelle_Kiefer.pdf"
+  - title: "Certificates"
+    url: /_pages/certificates.md/
+  - title: "1. Semester"
+    url: /_pages/semester-1.md/
