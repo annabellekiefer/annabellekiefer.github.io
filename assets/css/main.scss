@@ -7,3 +7,11 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+/* Verändern Profilbild */
+.author-image {
+    border-radius: 0;  /* Macht das Bild eckig */
+    width: 150px;      /* Setze die gewünschte Breite */
+    height: 150px;     /* Setze die gewünschte Höhe */
+    object-fit: cover; /* Stelle sicher, dass das Bild proportional bleibt */
+}
