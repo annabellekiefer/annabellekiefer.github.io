@@ -326,7 +326,7 @@ defaults:
 
 main:
   - title: "CV"
-    "/assets/docs/CV_Annabelle_Kiefer.pdf"
+    url: "/assets/docs/CV_Annabelle_Kiefer.pdf"
   - title: "Certificates"
     url: /_pages/certificates.md/
   - title: "1. Semester"
