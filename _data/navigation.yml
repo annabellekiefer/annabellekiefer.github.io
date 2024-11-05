@@ -3,9 +3,9 @@ main:
   - title: "Home"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Projects"
-    url: /_pages_semester-1.md
+    url: "/_pages/semester-1.md"
   - title: "CV"
-    url: /assets/docs/CV_Annabelle_Kiefer.pdf/
+    url: "/assets/docs/CV_Annabelle_Kiefer.pdf"
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
