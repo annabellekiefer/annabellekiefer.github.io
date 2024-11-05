@@ -117,7 +117,7 @@ author:
   avatar           : "/assets/images/Profilfoto.jpg"
   bio              : "Master student Copernicus Master in Digital Earth"
   location         : "Paris-Lodron-University Salzburg"
-  email            : "mailto:annabellekiefer@stud.plus.ac.at"
+  email            : #"mailto:annabellekiefer@stud.plus.ac.at"
   #links:
     #- label: "Email"
       #icon: "fas fa-fw fa-envelope-square"
