@@ -88,6 +88,7 @@ naver_site_verification  :
 yandex_site_verification :
 baidu_site_verification  :
 
+#header image (!!!)
 header:
   overlay_image: /assets/images/weltkugel.jpg
 
@@ -118,7 +119,7 @@ analytics:
 # Site Author
 author:
   name             : "Annabelle Kiefer"
-  avatar           : #"/assets/images/Profilfoto.jpg"
+  avatar           : "/assets/images/Profilfoto.jpg"
   bio              : "Master Student Copernicus Master in Digital Earth"
   location         : "Paris-Lodron-University Salzburg"
   email            :
