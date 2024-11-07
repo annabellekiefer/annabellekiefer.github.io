@@ -319,12 +319,14 @@ defaults:
       type: posts
     values:
       permalink: /
-      layout: single
+      layout: home
       author_profile: true
       read_time: true
       comments: # true
       share: true
       related: true
+      overlay_image: /assets/images/weltkugel.jpg
+      overlay_filter: 0.3
 
 footer:
   links:
