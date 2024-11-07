@@ -1,7 +1,7 @@
 ---
 title: "Portfolio"
 permalink: /
-layout: default
+layout: home
 header:
   overlay_image: /assets/images/weltkugel.jpg
   overlay_filter: 0.3
