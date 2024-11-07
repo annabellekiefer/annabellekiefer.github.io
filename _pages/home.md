@@ -1,5 +1,5 @@
 ---
-author_profile: right
+author_profile: true
 title: "Home"
 permalink: /
 layout: splash
