@@ -5,6 +5,7 @@ layout: splash
 header:
   overlay_image: /assets/images/weltkugel.jpg
   overlay_filter: 0.3
+author_profile: true
 ---
 
 # Hello Everyone!

@@ -20,3 +20,12 @@ layout: default
     </section>
   </article>
 </div>
+
+{% if page.author_profile %}
+  <div class="author-info">
+    <img src="{{ site.author.image }}" alt="Author photo" class="author-photo" />
+    <h2>{{ site.author.name }}</h2>
+    <p>{{ site.author.bio }}</p>
+    <a href="{{ site.author.url }}" target="_blank">More about the author</a>
+  </div>
+{% endif %}
