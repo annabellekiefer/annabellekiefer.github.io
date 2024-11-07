@@ -315,10 +315,10 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "_pages"
       type: posts
     values:
-      permalink: /:path/
+      permalink: /
       layout: single
       author_profile: true
       read_time: true
