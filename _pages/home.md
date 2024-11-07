@@ -1,5 +1,4 @@
 ---
-author_profile: true
 title: "Home"
 permalink: /
 layout: splash
