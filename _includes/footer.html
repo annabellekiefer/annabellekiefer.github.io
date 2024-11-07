@@ -1,3 +1,22 @@
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    {% if site.footer.links %}
+      {% for link in site.footer.links %}
+        {% if link.icon %}
+          <li>
+            {% if link.icon contains "fa-" %}
+              <!-- Zeigt ein FontAwesome Icon an -->
+              <i class="{{ link.icon }}" aria-hidden="true" style="font-size: 24px;"></i>
+            {% else %}
+              <!-- Zeigt ein benutzerdefiniertes Icon als Bild an -->
+              <img src="{{ link.icon }}" alt="" style="width: 24px; height: 24px;">
+            {% endif %}
+          </li>
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+  </ul>
+</div>
 
 
 <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} <a href="{{ site.copyright_url | default: site.url }}">{{ site.copyright | default: site.title }}</a>. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/jekyll-themes/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a>.</div>
