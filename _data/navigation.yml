@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Home"
-    url: /_layouts/home.html/
+    url: /
   - title: "Projects"
-    url: /_pages/semester-1.md/
+    url: /semester-1.md/
   - title: "CV"
     url: "/assets/docs/CV_Annabelle_Kiefer.pdf"
   # - title: "Sample Collections"
