@@ -1,7 +1,7 @@
 ---
 title: "Home"
 permalink: /
-layout: splash
+layout: archive
 header:
   overlay_image: /assets/images/weltkugel.jpg
   overlay_filter: 0.3
