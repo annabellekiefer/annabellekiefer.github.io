@@ -325,9 +325,7 @@ defaults:
       comments: # true
       share: true
       related: true
-      overlay_image: /assets/images/weltkugel.jpg
-      overlay_filter: 0.3
-
+     
 footer:
   links:
     - icon: "/assets/images/CDE_logo.png"  # LinkedIn Icon
