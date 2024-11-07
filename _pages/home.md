@@ -1,11 +1,11 @@
 ---
+author_profile: right
 title: "Home"
 permalink: /
 layout: splash
 header:
   overlay_image: /assets/images/weltkugel.jpg
   overlay_filter: 0.3
-author_profile: right
 ---
 
 # Hello Everyone!
