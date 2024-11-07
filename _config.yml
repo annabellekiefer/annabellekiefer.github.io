@@ -316,10 +316,10 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: pages
+      type: posts
     values:
       permalink: /:path/
-      layout: home
+      layout: single
       author_profile: true
       read_time: true
       comments: # true
