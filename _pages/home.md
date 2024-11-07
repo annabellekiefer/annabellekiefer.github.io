@@ -1,11 +1,11 @@
 ---
-#title: "Home"
-#permalink: /
-#layout: splash
-#header:
+title: "Home"
+permalink: /
+layout: splash
+header:
   overlay_image: /assets/images/weltkugel.jpg
   overlay_filter: 0.3
-#author_profile: right
+author_profile: right
 ---
 
 # Hello Everyone!
