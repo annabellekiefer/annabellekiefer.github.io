@@ -1,11 +1,12 @@
 ---
 permalink: /
-layout: archive
+layout: single
 header:
   overlay_image: /assets/images/weltkugel.jpg
   overlay_filter: 0.3
 author_profile: true
 show_title: false
+classes: wide
 ---
 
 <div class="home-content">
@@ -16,6 +17,6 @@ show_title: false
   </div>
 
   <div class="image-container">
-    <img src="path/to/your/image.jpg" alt="Author Image">
+    <img src="assets/images/Profilfoto.jpg" alt="Author Image">
   </div>
 </div>
