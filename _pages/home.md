@@ -8,18 +8,20 @@ header:
 author_profile: true
 ---
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-  
+</div>
+
+<div style="display: flex; align-items: flex-start; gap: 40px; max-width: 1200px; margin: 0 auto;">
+
   <!-- Linke Seite: Text -->
-  <div style="flex: 1;">
+  <div style="flex: 3;">
     <h1>Hello Everyone!</h1>
     <p>My name is Annabelle Kiefer and I am a master student at the <a href="https://master-cde.eu/">Copernicus Master in Digital Earth.</a></p>
     <p>I am currently studying in my first Semester at the Paris-Lodron-University of Salzburg. Next year, I am going to the Palacky University of Olomouc to study the track Geovisualization and Geocommunication.</p>
   </div>
   
   <!-- Rechte Seite: Bild -->
-  <div style="flex: 0 0 200px;">
-    <img src="/assets/images/Profilfoto.jpg" alt="Bildbeschreibung" style="width: 100%; border-radius: 8px;" />
+  <div style="flex: 1;">
+    <img src="/assets/images/Profilfoto.jpg" alt="Profilfoto" style="width: 100%; border-radius: 8px;" />
   </div>
 
 </div>
