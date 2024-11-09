@@ -6,6 +6,7 @@ header:
   overlay_image: /assets/images/weltkugel.jpg
   overlay_filter: 0.3
 author_profile: true
+show_title: false
 ---
 
 # Hello everyone!
