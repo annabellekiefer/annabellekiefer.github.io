@@ -13,4 +13,25 @@ search: false
     text-align: justify;
     line-height: 1.6;
   }
+
+.home-content {
+    display: flex;
+    justify-content: space-between; /* Verteilt Text und Bild gleichmäßig */
+    align-items: flex-start; /* Bild und Text auf der oberen Linie ausrichten */
+  }
+  
+.text-container {
+    flex: 1; /* Der Text nimmt den verfügbaren Platz ein */
+    margin-right: 20px; /* Etwas Abstand zwischen Text und Bild */
+  }
+  
+.image-container {
+    width: 300px; /* Definiert eine feste Breite für das Bild */
+    height: auto;
+  }
+  
+.image-container img {
+    width: 100%; /* Bild wird auf die Breite des Containers skaliert */
+    height: auto; /* Die Höhe des Bildes passt sich automatisch an */
+  }
   
