@@ -115,7 +115,7 @@ analytics:
 # Site Author
 author:
   name             : #"Annabelle Kiefer"
-  avatar           : "/assets/images/Profilfoto.jpg"
+  avatar           : #"/assets/images/Profilfoto.jpg"
   bio              : #"Master Student Copernicus Master in Digital Earth"
   location         : "Paris-Lodron-University Salzburg"
   email            :

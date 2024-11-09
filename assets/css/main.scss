@@ -14,24 +14,24 @@ search: false
     line-height: 1.6;
   }
 
-.home-content {
+  .home-content {
     display: flex;
-    justify-content: space-between; /* Verteilt Text und Bild gleichmäßig */
-    align-items: flex-start; /* Bild und Text auf der oberen Linie ausrichten */
+    align-items: flex-start; /* Bild und Text oben ausrichten */
   }
   
-.text-container {
-    flex: 1; /* Der Text nimmt den verfügbaren Platz ein */
+  .text-container {
+    flex: 1; /* Der Textbereich nimmt den verfügbaren Platz ein */
     margin-right: 20px; /* Etwas Abstand zwischen Text und Bild */
   }
   
-.image-container {
-    width: 300px; /* Definiert eine feste Breite für das Bild */
-    height: auto;
+  .image-container {
+    width: 300px; /* Feste Breite für das Bild */
+    height: 100%; /* Das Bild füllt die Höhe des Textes */
   }
   
-.image-container img {
+  .image-container img {
     width: 100%; /* Bild wird auf die Breite des Containers skaliert */
-    height: auto; /* Die Höhe des Bildes passt sich automatisch an */
+    height: 100%; /* Bild wird auf die Höhe des Containers skaliert */
+    object-fit: cover; /* Stellt sicher, dass das Bild die Containergröße ausfüllt, ohne das Seitenverhältnis zu verzerren */
   }
   

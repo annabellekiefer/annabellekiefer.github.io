@@ -16,6 +16,6 @@ show_title: false
   </div>
 
   <div class="image-container">
-    <img src="assets/images/Profilfoto.jpg" alt="Author Image">
+    <img src="path/to/your/image.jpg" alt="Author Image">
   </div>
 </div>
