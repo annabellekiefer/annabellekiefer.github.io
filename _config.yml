@@ -19,7 +19,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "E-Portfolio"
 title_separator          : "|"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Annabelle Kiefer"
 name                     : "Annabelle Kiefer"
 description              : #"An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -114,9 +114,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Annabelle Kiefer"
+  name             : #"Annabelle Kiefer"
   avatar           : #"/assets/images/Profilfoto.jpg"
-  bio              : "Master Student Copernicus Master in Digital Earth"
+  bio              : #"Master Student Copernicus Master in Digital Earth"
   location         : "Paris-Lodron-University Salzburg"
   email            :
   links:
@@ -336,7 +336,7 @@ defaults:
       author_profile: true
 footer:
   links:
-    - icon: "/assets/images/CDE_logo.png"  # LinkedIn Icon
-    - icon: "/assets/images/Profilfoto.jpg"    # GitHub Icon
-    - icon: "/assets/images_weltkugel.jpg"   # Twitter Icon
+    - icon: "/assets/images/EU_cofunded-1.png"  # LinkedIn Icon
+    - icon: "/assets/images/PLUS_Logo_englisch.png"    # GitHub Icon
+    - icon: "/assets/images/puo_logo.png"   # Twitter Icon
 
