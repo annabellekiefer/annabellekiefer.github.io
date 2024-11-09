@@ -2,10 +2,8 @@
 permalink: /
 layout: single
 header:
-  overlay_image: /assets/images/weltkugel.jpg
-  overlay_filter: 0.3
+  image: /assets/images/weltkugel.jpg
 author_profile: true
-show_title: false
 classes: wide
 ---
 
