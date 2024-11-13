@@ -1,13 +1,25 @@
-title: "1. Semester"
-permalink: /semester-1/
-layout: single
-author_profile: true
+---
+title: "Certificates"
+permalink: /certificates/
+layout: default  # Passe das Layout an, falls nötig
 ---
 
-# 1. Semester
+<div class="certificate-page">
 
-Willkommen auf der Seite für das erste Semester! Hier findest du eine Übersicht über alle Projekte, die ich in diesem Semester abgeschlossen habe, sowie einige der wichtigsten Erfahrungen, die ich dabei gesammelt habe.
+  <h1>Certificates</h1>
 
-Im ersten Semester ging es hauptsächlich darum, grundlegende Kenntnisse in [relevanten Themen oder Fächern] zu erwerben und verschiedene Techniken auszuprobieren. Die folgenden Projekte und Arbeiten spiegeln meine Fortschritte und meinen Lernprozess wider.
+  <h2>ESRI</h2>
+  <div class="certificate-gallery">
+    <img src="/assets/images/Displaying Raster Data in ArcGIS_Certificate_11122024_page-0001.jpg" alt="ESRI Certificate 1">
+    <img src="/assets/images/Editing Basics in ArcGIS Pro_Certificate_11072024_page-0001.jpg" alt="ESRI Certificate 2">
+    <!-- Weitere ESRI-Zertifikatsbilder hier hinzufügen -->
+  </div>
 
-Bleib gespannt, denn es gibt noch viel zu entdecken!
+  <h2>ESA Academy</h2>
+  <div class="certificate-gallery">
+    <img src="/assets/images/Editing Basics in ArcGIS Pro_Certificate_11072024_page-0001.jpg" alt="ESA Zertifikat 1">
+    <img src="/path/to/esa-certificate2.jpg" alt="ESA Zertifikat 2">
+    <!-- Weitere ESA-Zertifikatsbilder hier hinzufügen -->
+  </div>
+
+</div>
