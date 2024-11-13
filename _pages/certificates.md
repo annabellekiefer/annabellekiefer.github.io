@@ -1,6 +1,6 @@
 ---
 title: "Certificates"
-permalink: /certificates/
+permalink: /certificates.md/
 layout: default  # Passe das Layout an, falls nötig
 ---
 
