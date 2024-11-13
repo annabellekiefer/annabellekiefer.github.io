@@ -2,7 +2,7 @@
 permalink: /
 layout: single
 header:
-  image: /assets/images/weltkugel.jpg
+  overlay_image: /assets/images/weltkugel.jpg
 author_profile: true
 classes: wide
 ---

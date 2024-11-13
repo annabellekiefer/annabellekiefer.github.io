@@ -4,6 +4,8 @@ main:
     url: /
   - title: "Projects"
     url: /semester-1.md/
+  - title: "Certificates"
+    url: /certificates.md/
   - title: "CV"
     url: "/assets/docs/CV_Annabelle_Kiefer.pdf"
   # - title: "Sample Collections"
