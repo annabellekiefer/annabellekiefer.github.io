@@ -1,12 +1,13 @@
 ---
 title: "Certificates"
 permalink: /certificates.md/
-layout: single  # Passe das Layout an, falls nötig
+layout: splash  # Passe das Layout an, falls nötig
+header:
+  overlay_image: /assets/images/weltkugel.jpg
+  overlay_filter: 0.3
 ---
 
 <div class="certificate-page">
-
-  <h1>Certificates</h1>
 
   <h2>Esri</h2>
   <div class="certificate-gallery">
