@@ -1,7 +1,7 @@
 ---
 title: "Certificates"
 permalink: /certificates.md/
-layout: default  # Passe das Layout an, falls nötig
+layout: single  # Passe das Layout an, falls nötig
 ---
 
 <div class="certificate-page">
