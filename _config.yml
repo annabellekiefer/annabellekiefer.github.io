@@ -336,8 +336,6 @@ defaults:
       author_profile: true
 footer:
   links:
-    - icon: "/assets/images/CDE_logo.png"   
-    - icon: "/assets/images/PLUS_Logo_englisch.png"    # GitHub Icon
-    - icon: "/assets/images/puo_logo.png"   # Twitter Icon
-    - icon: "/assets/images/EU_cofunded-1.png"
+    - icon: "/assets/images/logos_acc.png"   
+    - 
 
