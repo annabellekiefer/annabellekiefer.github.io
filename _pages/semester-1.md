@@ -7,7 +7,6 @@ header:
   overlay_filter: 0.3
 author_profile: false
 
-"# 1.Semester"
 feature_row:
   - image_path: "/assets/images/Profilfoto.jpg" 
     alt: "placeholder image 1"
