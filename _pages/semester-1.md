@@ -8,19 +8,19 @@ header:
 author_profile: false
 
 feature_row:
-  - image_path: "/assets/images/Profilfoto.jpg" 
+  - image_path: "/assets/images/compliancemapping.png"
     alt: "placeholder image 1"
     title: "Placeholder 1"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: "/assets/images/compliancemapping.png" 
     #image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
-    title: "Compliance Mapping"
+    title: "[Compliance Mapping](https://storymaps.arcgis.com/stories/7d257f22b4c3424b8ddc888a6cd4669b)"
     excerpt: "This storymap on **Compliance Mapping** is the final assignment in the Course *Geohumanitarian Action*."
-    url: https://storymaps.arcgis.com/stories/7d257f22b4c3424b8ddc888a6cd4669b
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: "/assets/images/Profilfoto.jpg" 
+    #url: https://storymaps.arcgis.com/stories/7d257f22b4c3424b8ddc888a6cd4669b
+    #btn_label: "Read More"
+    #btn_class: "btn--primary"
+  - image_path: "/assets/images/compliancemapping.png"
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
