@@ -13,13 +13,13 @@ feature_row:
     title: "Placeholder 1"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: "/assets/images/compliancemapping.png" 
-    #image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+   # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
-    title: "[Compliance Mapping](https://storymaps.arcgis.com/stories/7d257f22b4c3424b8ddc888a6cd4669b)"
+    title: "Compliance Mapping"
     excerpt: "This storymap on **Compliance Mapping** is the final assignment in the Course *Geohumanitarian Action*."
-    #url: https://storymaps.arcgis.com/stories/7d257f22b4c3424b8ddc888a6cd4669b
-    #btn_label: "Read More"
-    #btn_class: "btn--primary"
+    url: https://storymaps.arcgis.com/stories/7d257f22b4c3424b8ddc888a6cd4669b
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: "/assets/images/compliancemapping.png"
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
