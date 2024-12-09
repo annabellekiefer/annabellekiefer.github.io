@@ -1,6 +1,6 @@
 ---
 title: "Certificates"
-permalink: /certificates.md/
+permalink: /certificates2.md/
 layout: splash  # Passe das Layout an, falls nötig
 header:
   overlay_image: /assets/images/weltkugel.jpg
