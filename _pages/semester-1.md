@@ -3,7 +3,7 @@ title: "1. Semester"
 permalink: /semester-1.md/
 layout: splash
 header:
-  overlay_image: /assets/images/weltkugel.jpg
+  overlay_image: /assets/images/erdbeben.png
   overlay_filter: 0.3
 author_profile: false
 
