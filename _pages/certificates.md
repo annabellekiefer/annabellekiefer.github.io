@@ -22,11 +22,10 @@ feature_row2:
 
 <!-- Überschrift für ESRI -->
 <h2>ESRI</h2>
-{% include feature_row id="featurerow" type="center" %}
+{% include feature_row id="feature_row" type="center" %}
 
 <!-- Überschrift für EUSPA -->
 <h2>EU Space Academy</h2>
-{% include feature_row2 id="featurerow2" type="center" %}
-
+{% include feature_row id="feature_row2" type="center" %}
 
 
