@@ -2,7 +2,7 @@
 permalink: /
 layout: single
 header:
-  overlay_image: /assets/images/weltkugel.jpg
+  overlay_image: /assets/images/salzburg.png
 author_profile: true
 classes: wide
 ---
