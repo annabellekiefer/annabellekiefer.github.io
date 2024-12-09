@@ -5,9 +5,32 @@ layout: splash  # Passe das Layout an, falls nötig
 header:
   overlay_image: /assets/images/weltkugel.jpg
   overlay_filter: 0.3
+
+feature_row:
+  - image_path: "/assets/images/Displaying Raster Data in ArcGIS_Certificate_11122024_page-0001.jpg"
+  - image_path: "/assets/images/Editing Basics in ArcGIS Pro_Certificate_11072024_page-0001.jpg"
+  - image_path: "/assets/images/Getting Started with Data Management_Certificate_10152024_page-0001.jpg"
+  - image_path: "/assets/images/Getting Started with the Geodatabase_Certificate_11052024_page-0001.jpg"
+  - image_path: "/assets/images/Integrating Data in ArcGIS Pro_Certificate_10162024_page-0001.jpg"
+  - image_path: "/assets/images/Managing Raster Data Using ArcGIS_Certificate_10242024_page-0001.jpg"
+  - image_path: "/assets/images/ArcGIS_Online_Basics_Certificate_AnnabelleKiefer_page-0001.jpg"
 ---
 
-<div class="certificate-page">
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
+
+{% comment %}
+{% include feature_row id="feature_row2" type="left" %}
+
+{% include feature_row id="feature_row3" type="right" %}
+
+{% include feature_row id="feature_row4" type="center" %}
+{% endcomment %}
+
+
+<!--
+  <div class="certificate-page">
 
   <h2>Esri</h2>
   <div class="certificate-gallery">
@@ -28,4 +51,5 @@ header:
     <!-- Weitere ESA-Zertifikatsbilder hier hinzufügen -->
   </div>
 
-</div>
+  </div>
+-->
