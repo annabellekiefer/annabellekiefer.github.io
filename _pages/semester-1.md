@@ -3,9 +3,8 @@ title: "1. Semester"
 permalink: /semester-1.md/
 layout: splash
 header:
-  overlay_image: /assets/images/erdbeben.png
+  overlay_image: /assets/images/salzburg.png
   overlay_filter: 0.3
-author_profile: false
 
 feature_row:
   - image_path: "/assets/images/compliancemapping.png"

@@ -3,7 +3,7 @@ title: "Certificates"
 permalink: /certificates.md/
 layout: splash  # Passe das Layout an, falls nötig
 header:
-  overlay_image: /assets/images/weltkugel.jpg
+  overlay_image: /assets/images/salzburg.png
   overlay_filter: 0.3
 
 feature_row:
