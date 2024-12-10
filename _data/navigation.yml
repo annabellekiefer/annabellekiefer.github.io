@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: /
   - title: "Projects"
-    url: /semester-1.md/
+    url: /projects.md/
   - title: "Certificates"
     url: /certificates.md/
   - title: "CV"
