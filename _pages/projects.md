@@ -7,9 +7,9 @@ header:
   overlay_filter: 0.3
 
 feature_row:
- - image_path: "/assets/images/compliancemapping2.png" 
+  - image_path: "/assets/images/compliancemapping2.png" 
    # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "ompliance Mapping"
+    alt: "Compliance Mapping"
     title: "Compliance Mapping"
     excerpt: "This storymap on **Compliance Mapping** is the final assignment in the Course *Geohumanitarian Action*."
     url: https://storymaps.arcgis.com/stories/7d257f22b4c3424b8ddc888a6cd4669b
@@ -29,12 +29,11 @@ feature_row:
     btn_label: "Click here"
     btn_class: "btn--primary"
 ---
-<h2>1. Semester</h2>
-{% include feature_row id="intro" type="center" %}
-
+<h1>1. Semester</h1>
 {% include feature_row %}
 
 {% comment %}
+{% include feature_row id="intro" type="center" %}
 {% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row3" type="right" %}
