@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-logo                     : #"/assets/images/CDE_logo.png"
+logo                     : "/assets/images/Logo.png"
 title                    : "E-Portfolio"
 title_separator          : "|"
 subtitle                 : "Annabelle Kiefer"
@@ -123,9 +123,11 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:annabellekiefer@stud.plus.ac.at"
+      new_tab: true
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/annabelle-kiefer-380ba929a/"
+      new_tab: true
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -135,6 +137,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/annabellekiefer/annabellekiefer.github.io"
+      new_tab: true
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
