@@ -25,7 +25,7 @@ feature_row:
   - image_path: "/assets/images/ArcticSeaIceDecline_blueish_cropped.png"
     title: "Arctic Sea Ice Decline"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "/assets/images/ArcticSeaIceDecline_blueish_cropped.png"
+    url: "/assets/images/ArcticSeaIceDecline_blueish.png"
     btn_label: "Click here"
     btn_class: "btn--primary"
 ---
