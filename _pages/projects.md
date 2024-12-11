@@ -31,7 +31,7 @@ feature_row:
 ---
 <style>
 .btn--primary:visited {
-    background-color: #7a0177;
+    background-color: #707e99;
     color: #fff;
 }
 </style>
