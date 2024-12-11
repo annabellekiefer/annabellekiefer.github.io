@@ -8,9 +8,6 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-a:visited {
-  color: #b5bcca;
-}
 /* CSS für Blocksatz */
 .home-content {
     text-align: justify;
