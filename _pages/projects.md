@@ -29,6 +29,13 @@ feature_row:
     btn_label: "Click here"
     btn_class: "btn--primary"
 ---
+<style>
+.btn--primary:visited {
+    background-color: #7a0177;
+    color: #fff;
+}
+</style>
+
 <h1>1. Semester</h1>
 {% include feature_row %}
 
@@ -40,3 +47,4 @@ feature_row:
 
 {% include feature_row id="feature_row4" type="center" %}
 {% endcomment %}
+
