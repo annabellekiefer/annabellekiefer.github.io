@@ -24,7 +24,7 @@ feature_row:
    # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "Compliance Mapping"
     title: "Compliance Mapping"
-    excerpt: "<strong style='font-size: 1.25em;'>Geovisualization and Advanced Cartography</strong><br>This StoryMap on Compliance Mapping deals with the importance of using Earth Observation and geospatial information tools to ensure efficient environmental compliance, especially in light of new regulations such as the <strong>European Deforestation Regulation (EUDR)</strong>."
+    excerpt: "<strong style='font-size: 1.25em;'>Geohumanitarian Action</strong><br><br>This StoryMap on Compliance Mapping deals with the importance of using Earth Observation and geospatial information tools to ensure efficient environmental compliance, especially in light of new regulations such as the <strong>European Deforestation Regulation (EUDR)</strong>."
     url: https://storymaps.arcgis.com/stories/7d257f22b4c3424b8ddc888a6cd4669b
     btn_label: "View project"
     btn_class: "btn--primary"
