@@ -8,32 +8,49 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-/* CSS für Blocksatz */
-.home-content {
-    text-align: justify;
-    line-height: 1.6;
-  }
+.feature-row .excerpt {
+  text-align: justify;
+}
 
-  .home-content {
-    display: flex;
-    align-items: flex-start; /* Bild und Text oben ausrichten */
-  }
-  
-  .text-container {
-    flex: 1; /* Der Textbereich nimmt den verfügbaren Platz ein */
-    margin-right: 20px; /* Etwas Abstand zwischen Text und Bild */
-  }
-  
-  .image-container {
-    width: 300px; /* Feste Breite für das Bild */
-    height: 100%; /* Das Bild füllt die Höhe des Textes */
-  }
-  
-  .image-container img {
-    width: 100%; /* Bild wird auf die Breite des Containers skaliert */
-    height: 100%; /* Bild wird auf die Höhe des Containers skaliert */
-    object-fit: cover; /* Stellt sicher, dass das Bild die Containergröße ausfüllt, ohne das Seitenverhältnis zu verzerren */
-  }
+.page__hero-title {
+  margin-top: 20px; /* Abstand zwischen Bild und Titel */
+  text-align: center; /* Optional: Zentriere den Text */
+}
+
+.page__hero-title .page__title {
+  font-size: 2rem; /* Titelgröße anpassen */
+}
+
+.home-content {
+  text-align: justify;
+  line-height: 1.6;
+  font-size: 18px; /* Verkleinert die Schriftgröße des Haupttextes */
+}
+
+.home-content {
+  display: flex;
+  align-items: flex-start; /* Bild und Text oben ausrichten */
+}
+
+.text-container {
+  flex: 1; /* Der Textbereich nimmt den verfügbaren Platz ein */
+  margin-right: 20px; /* Etwas Abstand zwischen Text und Bild */
+}
+
+.image-container {
+  width: 350px; /* Feste Breite für das Bild */
+  height: 100%; /* Das Bild füllt die Höhe des Textes */
+  display: flex;
+  flex-direction: column; /* Ermöglicht Hinzufügen des Buttons unter dem Bild */
+  align-items: center; /* Zentriert Bild und Button horizontal */
+}
+
+.image-container img {
+  width: 100%; /* Bild wird auf die Breite des Containers skaliert */
+  height: auto; /* Beibehaltung des Seitenverhältnisses */
+  object-fit: cover; /* Stellt sicher, dass das Bild die Containergröße ausfüllt, ohne das Seitenverhältnis zu verzerren */
+}
+
   .certificate-page {
     padding: 40px;
   }
