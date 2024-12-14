@@ -22,34 +22,69 @@ search: false
 }
 
 .home-content {
-  text-align: justify;
-  line-height: 1.6;
-  font-size: 18px; /* Verkleinert die Schriftgröße des Haupttextes */
-}
-
-.home-content {
   display: flex;
-  align-items: flex-start; /* Bild und Text oben ausrichten */
+  align-items: flex-start; /* Elemente oben ausrichten */
+  justify-content: space-between;
+  gap: 20px; /* Abstand zwischen Text und Bild */
+  text-align: justify; /* Blocksatz für den Text */
+  line-height: 1.6; /* Zeilenhöhe für Lesbarkeit */
+  font-size: 18px; /* Schriftgröße */
+  margin: 0; /* Entfernt unerwünschte Außenabstände */
+  padding: 0; /* Entfernt unerwünschte Innenabstände */
 }
 
 .text-container {
   flex: 1; /* Der Textbereich nimmt den verfügbaren Platz ein */
-  margin-right: 20px; /* Etwas Abstand zwischen Text und Bild */
+  margin-right: 20px; /* Abstand zwischen Text und Bild */
+  padding: 0; /* Entfernt Innenabstand */
 }
 
 .image-container {
-  width: 350px; /* Feste Breite für das Bild */
-  height: 100%; /* Das Bild füllt die Höhe des Textes */
+  width: 330px; /* Feste Breite für das Bild */
+  height: auto; /* Höhe passt sich dynamisch an */
   display: flex;
-  flex-direction: column; /* Ermöglicht Hinzufügen des Buttons unter dem Bild */
-  align-items: center; /* Zentriert Bild und Button horizontal */
+  flex-direction: column; /* Ermöglicht Hinzufügen von weiteren Elementen unter dem Bild */
+  align-items: center; /* Zentriert Bild und optionale Elemente horizontal */
+  margin: 0; /* Entfernt Außenabstand */
+  padding: 0; /* Entfernt Innenabstand */
 }
 
 .image-container img {
   width: 100%; /* Bild wird auf die Breite des Containers skaliert */
-  height: auto; /* Beibehaltung des Seitenverhältnisses */
-  object-fit: cover; /* Stellt sicher, dass das Bild die Containergröße ausfüllt, ohne das Seitenverhältnis zu verzerren */
+  height: auto; /* Seitenverhältnis bleibt erhalten */
+  object-fit: cover; /* Bild füllt den Container ohne Verzerrung */
+  border-radius: 5%; /* Rundes Bild */
+  margin: 0; /* Entfernt Außenabstand */
 }
+
+/* Änderungen für mobile Geräte */
+@media screen and (max-width: 768px) {
+  .home-content {
+    flex-direction: column; /* Text und Bild untereinander anordnen */
+    align-items: center; /* Zentrierung der Inhalte */
+    gap: 1.5em; /* Definiert Abstand zwischen Text und Bild */
+    margin: 0; /* Entfernt Außenabstand */
+    padding: 0; /* Entfernt Innenabstand */
+  }
+
+  .text-container {
+    margin-right: 0; /* Abstand rechts entfernen */
+    text-align: center; /* Zentrierter Text auf mobilen Geräten */
+    padding: 0; /* Entfernt Innenabstand */
+  }
+
+  .image-container {
+    width: 200px; /* Kleinere Bildgröße auf mobilen Geräten */
+    margin-top: 1.5em; /* Abstand nach dem Text */
+    padding: 0; /* Entfernt Innenabstand */
+  }
+
+  .image-container img {
+    width: 100%; /* Bildgröße bleibt relativ zum Container */
+    height: auto; /* Seitenverhältnis bleibt erhalten */
+  }
+}
+
 
   .certificate-page {
     padding: 40px;

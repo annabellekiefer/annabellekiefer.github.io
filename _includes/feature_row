@@ -29,9 +29,14 @@
               {{ f.excerpt | markdownify }}
             </div>
           {% endif %}
+        </div>
 
+        <div class="archive__item-footer">
+          {% if f.date %}
+            <em class="archive__item-date">{{ f.date }}</em>
+          {% endif %}
           {% if f.url %}
-            <p><a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+            <a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a>
           {% endif %}
         </div>
       </div>
