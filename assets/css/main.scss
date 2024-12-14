@@ -66,13 +66,6 @@ search: false
     margin: 0; /* Entfernt Außenabstand */
     padding: 0; /* Entfernt Innenabstand */
   }
-
-  .text-container {
-    margin-right: 0; /* Abstand rechts entfernen */
-    text-align: center; /* Zentrierter Text auf mobilen Geräten */
-    padding: 0; /* Entfernt Innenabstand */
-  }
-
   .image-container {
     width: 200px; /* Kleinere Bildgröße auf mobilen Geräten */
     margin-top: 1.5em; /* Abstand nach dem Text */
@@ -82,6 +75,12 @@ search: false
   .image-container img {
     width: 100%; /* Bildgröße bleibt relativ zum Container */
     height: auto; /* Seitenverhältnis bleibt erhalten */
+  }
+
+  .text-container {
+    margin-right: 0; /* Abstand rechts entfernen */
+    text-align: justify; /* Zentrierter Text auf mobilen Geräten */
+    padding: 0; /* Entfernt Innenabstand */
   }
 }
 
