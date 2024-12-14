@@ -67,9 +67,10 @@ search: false
     padding: 0; /* Entfernt Innenabstand */
   }
   .image-container {
-    order:-1;
+    order: -1; /* Bild kommt vor dem Text */
     width: 200px; /* Kleinere Bildgröße auf mobilen Geräten */
-    margin-top: 1.5em; /* Abstand nach dem Text */
+    max-width: 100%; /* Begrenzung auf 100% der verfügbaren Breite */
+    margin-bottom: 1.5em; /* Abstand nach dem Bild */
     padding: 0; /* Entfernt Innenabstand */
   }
 
