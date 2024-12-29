@@ -16,6 +16,9 @@ feature_row:
   - image_path: "/assets/images/Displaying Raster Data in ArcGIS_Certificate_11122024_page-0001.jpg"
   - image_path: "/assets/images/Authoring 3D Scenes_Certificate_12072024.jpg"
   - image_path: "/assets/images/Sharing 3D Content Using Scene Layer Packages_Certificate_12102024.jpg"
+  - image_path: "/assets/images/Creating 3D Features from Existing Data_Certificate_12222024.jpg"
+  - image_path: "/assets/images/Working with NetCDF Data in ArcGIS Pro_Certificate_12272024.jpg"
+  - image_path: "/assets/images/Automating Workflows Using ArcGIS Pro Tasks_Certificate_12292024.jpg"
 
 feature_row2:
   - image_path: "/assets/images/EUSPA_Business_badge_AnnabelleKiefer_page-0001.jpg" 
