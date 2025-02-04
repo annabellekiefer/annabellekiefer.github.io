@@ -19,6 +19,8 @@ feature_row:
   - image_path: "/assets/images/Creating 3D Features from Existing Data_Certificate_12222024.jpg"
   - image_path: "/assets/images/Working with NetCDF Data in ArcGIS Pro_Certificate_12272024.jpg"
   - image_path: "/assets/images/Automating Workflows Using ArcGIS Pro Tasks_Certificate_12292024.jpg"
+  - image_path: "/assets/images/Introduction to 3D Data_Certificate_01312025.jpg"
+
 
 feature_row2:
   - image_path: "/assets/images/EUSPA_Business_badge_AnnabelleKiefer_page-0001.jpg" 

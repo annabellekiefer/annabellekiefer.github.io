@@ -87,11 +87,15 @@
   position: relative;
   border-radius: $border-radius;
   overflow: hidden;
-
-  img {
-    width: 100%;
-  }
+  background-color: #f3f6ef; /* Weißer Hintergrund um das Bild */
+  padding: 3px; /* Abstand um das Bild für den Rahmen */
+  border: 6px solid #f3f6ef; /* Weißer Rahmen */
 }
+
+.archive__item-teaser img {
+  width: 100%;
+}
+
 
 .archive__item-caption {
   position: absolute;
@@ -243,6 +247,7 @@
 
   .archive__item-title {
     font-size: 1.15em;
+    height: 3em;
     margin-bottom: 0;
     text-align: left;
   }
@@ -292,16 +297,17 @@
   .archive__item-excerpt {
     flex-grow: 0;
     margin-bottom: 1em;
-    height: 14em; /* Feste Höhe für alle Excerpts */
+    height: 15em; /* Feste Höhe für alle Excerpts */
     overflow: hidden; /* Text, der nicht passt, wird ausgeblendet */
     text-align: justify; /* Blocksatz für den Text */
   }
 
   .archive__item-footer {
-    margin-top: auto; /* Footer immer am Ende des Containers */
+    margin-top: auto;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
+    margin-bottom: 1em; // Fügt zusätzlichen Abstand unter dem Footer hinzu
   }
 
   .archive__item-date {
@@ -311,6 +317,11 @@
 
   a.btn {
     text-align: left; /* Stellt sicher, dass der Button mit dem Datum linksbündig ist */
+  }
+
+  .btn--primary:visited {
+    background-color: #f3f6ef;
+    color: #657368;
   }
 
   &--left, &--right {
@@ -415,6 +426,8 @@
     }
   }
 }
+
+
 
 /* Place inside an archive layout */
 
