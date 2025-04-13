@@ -9,9 +9,5 @@ main:
   - title: "CV"
     url: "/assets/docs/Lebenslauf_portfolio.pdf"
   - title: "Blog"
-    url: "/blog.md/
+    url: /blog.md/
 
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
