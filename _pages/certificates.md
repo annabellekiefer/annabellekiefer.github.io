@@ -7,6 +7,10 @@ header:
   overlay_filter: 0.3
 
 feature_row:
+  - image_path: "/assets/images/mooc_climateaction.png"
+  - image_path: "/assets/images/mooc_spatialanalysis.png"
+
+feature_row2:
   - image_path: "/assets/images/ArcGIS_Online_Basics_Certificate_AnnabelleKiefer_page-0001.jpg"
   - image_path: "/assets/images/Getting Started with Data Management_Certificate_10152024_page-0001.jpg"
   - image_path: "/assets/images/Integrating Data in ArcGIS Pro_Certificate_10162024_page-0001.jpg"
@@ -21,18 +25,20 @@ feature_row:
   - image_path: "/assets/images/Automating Workflows Using ArcGIS Pro Tasks_Certificate_12292024.jpg"
   - image_path: "/assets/images/Introduction to 3D Data_Certificate_01312025.jpg"
 
-
-feature_row2:
+feature_row3:
   - image_path: "/assets/images/EUSPA_Business_badge_AnnabelleKiefer_page-0001.jpg" 
 
 ---
-
-<!-- Überschrift für ESRI -->
-<h2>Esri Academy</h2>
+<!-- Überschrift für ESRI Mooc -->
+<h2>Esri Academy - MOOCs</h2>
 {% include feature_row id="feature_row" %}
+
+<!-- Überschrift für ESRI wen course-->
+<h2>Esri Academy - Web Courses</h2>
+{% include feature_row id="feature_row2" %}
 
 <!-- Überschrift für EUSPA -->
 <h2>EU Space Academy</h2>
-{% include feature_row id="feature_row2" %}
+{% include feature_row id="feature_row3" %}
 
 

@@ -7,6 +7,30 @@ header:
   overlay_filter: 0.3
 
 feature_row:
+  - image_path: "/assets/images/spatial_database.png" 
+    alt: "Database"
+    title: "Database backend for a WebGIS"
+    excerpt: '<strong style="font-size: 1.03em;">Spatial Databases</strong><br><br>As my final project, I created a <b>database </b> with <b>PostgreSQL</b> for the NatureOne festival, which can serve as a backend for a WebGIS. In this context, in addition to creating a database in the third normal form with <b>views</b> and <b>indexes</b>, <b>queries</b> were defined that show the potential of the database. The complete source code can be found <a href="/assets/docs/E13_sourcecode_AnnabelleKiefer.sql" target="_blank" rel="noopener noreferrer">here</a>.'
+    date: "March 21, 2025"
+    url: "/assets/docs/E13_final_assignment_Annabelle Kiefer.pdf"
+    btn_label: "View Project"
+    btn_class: "btn--primary"
+  - image_path: "/assets/images/obia.png" 
+    alt: "OBIA"
+    title: "Object-based & knowledge-based classification"
+    excerpt: "<strong style='font-size: 1.03em;'>Object-based Image Analysis</strong><br><br>For the final examination, an object-based classification on an artifical landscape image was carried out using <b>eCognition</b>. Based on a first classification, a <b>rule-based classification</b> was conducted to differentiate the initial classes using <b>expert knowledge</b>."
+    date: "February 28, 2025"
+    url: "/assets/docs/Kiefer_final_examination.pdf"
+    btn_label: "View Project"
+    btn_class: "btn--primary"
+  - image_path: "/assets/images/hohe_tauern.png" 
+    alt: "Hohe Tauern"
+    title: "Navigating Hohe Tauern: A Practical Guide for Visitors"
+    excerpt: '<strong style="font-size: 1.03em;">Geovisualization & Advanced Cartography</strong><br><br>As part of a group project, we designed an ArcGIS StoryMap entitled <b>Navigating Hohe Tauern: A Practical Guide for Visitors</b>. Our task was also to create a second StoryMap focusing on the <b>development process</b> by defining precise objectives and a target group which can be found <a href="https://storymaps.arcgis.com/stories/7d5ceb3b557a41919d5c501eb6806fd7" target="_blank" rel="noopener noreferrer">here</a>.'
+    date: "February 28, 2025"
+    url: https://storymaps.arcgis.com/stories/6ca241955298475f93a165ef2792c22b
+    btn_label: "View Project"
+    btn_class: "btn--primary"
   - image_path: "/assets/images/greensalzburg.png" 
     alt: "Green Salzburg"
     title: "Green Salzburg: Eco-friendly Living & Eating"
