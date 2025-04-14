@@ -10,10 +10,20 @@ feature_row:
   - image_path: "/assets/images/bip_greece.png" 
     alt: "BIP Greece"
     title: "Climate change imprint on a tectonically active landscape"
-    excerpt: "<strong style='font-size: 1.03em;'>Blended Intensive Programme (BIP)</strong><br><br>This is the report for the Blended Intensive Programme (BIP) <i>Climate change imprint on a tectonically active landscape</i> that was organized and hosted by the National and Kapodistrian University of Athens (NKUA) from 1 February to 14 March 2025."
+    excerpt: "<strong style='font-size: 1.03em;'>Blended Intensive Programme (BIP)</strong><br><br>This is the report for the <b>Blended Intensive Programme (BIP)</b> <i>Climate change imprint on a tectonically active landscape</i> that was organized and hosted by the National and Kapodistrian University of Athens (NKUA) from 1 February to 14 March 2025. The focus was on the climate change impact on the environment and landscape in <b>Naxos, Greece</b>."
+    date: "March 14, 2025"
     url: https://storymaps.arcgis.com/stories/688c3946e15a4a5083abc7bcfb42c0bf
     btn_label: "View Report"
     btn_class: "btn--primary"
+  - image_path: "/assets/images/springschool.png" 
+    alt: "Spring School on Visualization"
+    title: "Mapping Trust in the Age of Misinformation"
+    excerpt: "<strong style='font-size: 1.03em;'>UPOL Spring School on Visualization</strong><br><br>This is the report for the <b>International Spring School on Visualization</b> entitled <i>Seeing Through Lies: Mapping Trust in the Age of Misinformation</i> that was hosted virtually by the Department of Geoinformatics at <b>Palacký University Olomouc</b> from April 1-2, 2025. The focus was on innovative and data-driven approaches to mapping trust."
+    date: "April 1, 2025"
+    url: https://water-neptune-01e.notion.site/International-Spring-School-on-Visualization-1d4575839f9f809fa131fcc1de2aaaab
+    btn_label: "View Report"
+    btn_class: "btn--primary"
+
  
 ---
 {% include feature_row %}
