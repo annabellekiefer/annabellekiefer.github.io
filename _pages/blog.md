@@ -7,6 +7,14 @@ header:
   overlay_filter: 0.3
 
 feature_row:
+  - image_path: "/assets/images/musica.jpeg" 
+    alt: "Excursion Vienna"
+    title: "Excursion to the EODC & Environment Agency Austria"
+    excerpt: "<strong style='font-size: 1.03em;'>Copernicus Hubs and Institutions</strong><br><br>This is the report for the <b>Copernicus Hubs and Institutions</b> seminar excursion, which took place at the <b>Earth Observation Data Centre (EODC)</b> and the <b>Environment Agency Austria</b> in <b>Vienna on June 10, 2025</b>. The excursion helped us to gain a better understanding of the EU space program and its implementation in Austrian institutions."
+    date: "June 10, 2025"
+    url: "/assets/docs/Report_Kiefer.pdf"
+    btn_label: "View Report"
+    btn_class: "btn--primary"
   - image_path: "/assets/images/bip_greece.png" 
     alt: "BIP Greece"
     title: "Climate change imprint on a tectonically active landscape"
