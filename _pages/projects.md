@@ -6,6 +6,15 @@ header:
   overlay_image: /assets/images/salzburg.png
   overlay_filter: 0.3
 
+feature_row2:
+  - image_path: "/assets/images/Final_Product_Practical2.png"
+    alt: "Practical 2 GIS"
+    title: "Mapping Manipulation: Exposing Visual Deception in Data"
+    excerpt: '<strong style="font-size: 1.03em;">Application Development (GIS)</strong><br><br>This <b>infographic</b> was created as part of Practical 2 with <b>R</b> and exposes how spatial data visualizations can be designed to mislead. For transparency, you can find the full R code, including all <b>visual tricks</b> with maps and graphs and their explanations <a href="https://github.com/annabellekiefer/practical2_gis?tab=readme-ov-file" target="_blank" rel="noopener noreferrer">here</a>.'
+    date: "May 5, 2025"
+    url: "/assets/images/Final_Product_Practical2.png"
+    btn_label: "View Project"
+    btn_class: "btn--primary"
 feature_row:
   - image_path: "/assets/images/spatial_database.png" 
     alt: "Database"
@@ -80,6 +89,11 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-<h2>Semester 1 </h2>
+<h2>Semester 2</h2>
+
+{% include feature_row id="feature_row2" %}
+
+<h2>Semester 1</h2>
 
 {% include feature_row %}
+
