@@ -319,11 +319,7 @@
     text-align: left; /* Stellt sicher, dass der Button mit dem Datum linksbündig ist */
   }
 
-  .btn--primary:visited {
-    background-color: #f3f6ef;
-    color: #657368;
-  }
-
+ 
   &--left, &--right {
     position: relative;
     margin-inline: 0;
