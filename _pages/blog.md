@@ -7,6 +7,14 @@ header:
   overlay_filter: 0.3
 
 feature_row:
+  - image_path: "/assets/images/BIP_Salzburg.png" 
+    alt: "BIP Salzburg"
+    title: "Participatory tools for urban nature planning"
+    excerpt: "<strong style='font-size: 1.03em;'>Blended Intensive Programme (BIP)</strong><br><br>This is the report for the <b>Blended Intensive Programme (BIP)</b> <i>Participatory tools for urban nature planning and management</i> that was hosted by the Paris Lodron University Salzburg from 24 February to 4 July 2025. The focus was on urban nature, <b>public participation in urban sustainability</b> and <b>GIS</b> as a supporting tool for participatory management."
+    date: "July 4, 2025"
+    url: "https://storymaps.arcgis.com/stories/147dc0c0ef4848dcb8071258007e1e4c"
+    btn_label: "View Report"
+    btn_class: "btn--primary"
   - image_path: "/assets/images/musica.jpeg" 
     alt: "Excursion Vienna"
     title: "Excursion to the EODC & Environment Agency Austria"

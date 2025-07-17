@@ -7,6 +7,22 @@ header:
   overlay_filter: 0.3
 
 feature_row2:
+  - image_path: "/assets/images/walkability_women2.png"
+    alt: "Scientific Methods and Writing"
+    title: "Assessing Walkability for Women in Cities"
+    excerpt: '<strong style="font-size: 1.03em;">Scientific Methods and Writing</strong><br><br>My topic for the Scientific Methods and Writing course was <b>assessing walkability for women in cities using GIS and participatory mapping</b>. Before the final paper, the course was divided into several parts, including thesis statement identification, drafting the initial paper, a peer review and an elevator pitch, the slides of which can be found here <a href="/assets/docs/A4_Kiefer.pdf" target="_blank" rel="noopener noreferrer">here</a>.'
+    date: "July 14, 2025"
+    url: "/assets/docs/A5_Kiefer.pdf"
+    btn_label: "View Project"
+    btn_class: "btn--primary"
+  - image_path: "/assets/images/Handout.png"
+    alt: "Analysis & Modeling Presentation"
+    title: "Biophysical Parameters for Urban Heat Island Analysis"
+    excerpt: '<strong style="font-size: 1.03em;">Analysis & Modelling</strong><br><br>My <b>presentation</b> in Analysis & Modelling dealt with Biophysical Parameters and in particular the use of <b>Vegetation & Urban Indices</b> in Urban Heat Island (UHI) analysis. For the practical part, I analyzed the correlation between <b>LST</b>, <b>NDVI</b> and <b>NDBI</b> for Vienna. We also had to create a handout, which you can find <a href="/assets/images/Handout.png" target="_blank" rel="noopener noreferrer">here</a>.'
+    date: "May 8, 2025"
+    url: "/assets/docs/A1_AM.pdf"
+    btn_label: "View Project"
+    btn_class: "btn--primary"
   - image_path: "/assets/images/Final_Product_Practical2.png"
     alt: "Practical 2 GIS"
     title: "Mapping Manipulation: Exposing Visual Deception in Data"
