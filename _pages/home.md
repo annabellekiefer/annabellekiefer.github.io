@@ -19,6 +19,6 @@ classes: wide
   </div>
 
   <div class="image-container">
-    <img src="assets/images/Profilfoto.jpg" alt="Author Image">
+    <img src="assets/images/profilbild.jpg" alt="Author Image">
   </div>
 </div>

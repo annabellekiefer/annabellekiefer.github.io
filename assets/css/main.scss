@@ -45,7 +45,7 @@ search: false
   display: flex;
   flex-direction: column; /* Ermöglicht Hinzufügen von weiteren Elementen unter dem Bild */
   align-items: center; /* Zentriert Bild und optionale Elemente horizontal */
-  margin: 0; /* Entfernt Außenabstand */
+  margin: 29px 0 0 0; /* Entfernt Außenabstand */
   padding: 0; /* Entfernt Innenabstand */
 }
 
@@ -54,7 +54,7 @@ search: false
   height: auto; /* Seitenverhältnis bleibt erhalten */
   object-fit: cover; /* Bild füllt den Container ohne Verzerrung */
   border-radius: 5%; /* Rundes Bild */
-  margin: 0; /* Entfernt Außenabstand */
+  margin: 29px 0 0 0; /* Entfernt Außenabstand */
 }
 
 /* Änderungen für mobile Geräte */
