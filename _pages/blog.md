@@ -7,6 +7,14 @@ header:
   overlay_filter: 0.3
 
 feature_row:
+  - image_path: "/assets/images/Internship_Dashboard.png" 
+    alt: "Internship report"
+    title: Dashboard Applications for Crisis Information
+    excerpt: "<strong style='font-size: 1.03em;'>Internship German Aerospace Center</strong><br><br>This is the report for my internship at the <b>German Aerospace Center (DLR)</b>, more specifically at the <b>Center for Satellite Based Crisis Information (ZKI)</b>. The main tasks included developing interactive dashboards using <b>ArcGIS Experience Builder</b> as well as raster data processing and WMS publishing with <b>GDAL</b> and <b>Geoserver</b>."
+    date: "September 4, 2025"
+    url: "assets/docs/Internship_Report_EPortfolio.pdf"
+    btn_label: "View Report"
+    btn_class: "btn--primary"
   - image_path: "/assets/images/BIP_Salzburg.png" 
     alt: "BIP Salzburg"
     title: "Participatory tools for urban nature planning"
