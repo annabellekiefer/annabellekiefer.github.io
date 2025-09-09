@@ -4,9 +4,32 @@ permalink: /projects.md/
 layout: splash
 header:
   overlay_image: /assets/images/salzburg.png
-  overlay_filter: 0.3
 
 feature_row2:
+  - image_path: "/assets/images/findmyroute.png"
+    alt: "Final project Python"
+    title: "FindMyRoute: A City Path Optimizer"
+    excerpt: '<strong style="font-size: 1.03em;">Software Development (Python)</strong><br><br>For the final project in Software Development (Python), our group created <b>FindMyRoute</b>, an interactive web map application to optimize travel paths in a city. Developed collaboratively in a shared GitHub repository, the project uses <b>folium</b> to visualize attractions and calculate efficient routes.'
+    date: "August 22, 2025"
+    url: https://github.com/JakirHossainCDE/FindMyRoute
+    btn_label: "View Project"
+    btn_class: "btn--primary"
+  - image_path: "/assets/images/webmap_ad_gis.png"
+    alt: "Final project GIS"
+    title: "Interactive WebGIS for Gender-Sensitive Walkability"
+    excerpt: '<strong style="font-size: 1.03em;">Application Development (GIS)</strong><br><br>This web map was created as the final project for Application Development (GIS) and focuses on <b>gender-sensitive walkability assessment</b> in Salzburg. By applying the <b>NetAScore toolbox</b>, user-specific walkability indices were built to reflect perspectives such as women avoiding poorly lit streets at night. A short report can be found <a href="/assets/docs/Report_Final_Project_ADGIS_Kiefer.pdf" target="_blank" rel="noopener noreferrer">here</a>.'
+    date: "August 15, 2025"
+    url: https://annabellekiefer.github.io/gendered-walkability-webgis/
+    btn_label: "View Project"
+    btn_class: "btn--primary"
+  - image_path: "/assets/images/Handout.png"
+    alt: "Analysis & Modeling Paper"
+    title: "Biophysical Parameters for Urban Heat Island Analysis"
+    excerpt: '<strong style="font-size: 1.03em;">Analysis & Modelling</strong><br><br>My paper in Analysis & Modelling investigates the distribution of <b>Urban Heat Islands (UHIs)</b> in Klagenfurt, Austria. Using both medium-resolution Landsat 9 data and high-resolution thermal imagery from August 2024, I analyzed how LST relates to vegetation and urban indices. In the context of the course, I also created a <a href="/assets/docs/A1_AM.pdf" target="_blank" rel="noopener noreferrer">presentation</a> and a <a href="/assets/images/Handout.png" target="_blank" rel="noopener noreferrer">handout</a>.'
+    date: "August 10, 2025"
+    url: "/assets/docs/A2_AM_Kiefer.pdf"
+    btn_label: "View Project"
+    btn_class: "btn--primary"
   - image_path: "/assets/images/walkability_women2.png"
     alt: "Scientific Methods and Writing"
     title: "Assessing Walkability for Women in Cities"
@@ -15,18 +38,18 @@ feature_row2:
     url: "/assets/docs/A5_Kiefer.pdf"
     btn_label: "View Project"
     btn_class: "btn--primary"
-  - image_path: "/assets/images/Handout.png"
-    alt: "Analysis & Modeling Presentation"
-    title: "Biophysical Parameters for Urban Heat Island Analysis"
-    excerpt: '<strong style="font-size: 1.03em;">Analysis & Modelling</strong><br><br>My <b>presentation</b> in Analysis & Modelling dealt with Biophysical Parameters and in particular the use of <b>Vegetation & Urban Indices</b> in Urban Heat Island (UHI) analysis. For the practical part, I analyzed the correlation between <b>LST</b>, <b>NDVI</b> and <b>NDBI</b> for Vienna. We also had to create a handout, which you can find <a href="/assets/images/Handout.png" target="_blank" rel="noopener noreferrer">here</a>.'
-    date: "May 8, 2025"
-    url: "/assets/docs/A1_AM.pdf"
+  - image_path: "/assets/images/Spatial_Statistics.png"
+    alt: "Spatial Statistics"
+    title: "Analyzing Spatial Relationships with R"
+    excerpt: '<strong style="font-size: 1.03em;">Spatial Statistics</strong><br><br>In this course I studied core methods of <b>spatial data analysis</b>, from descriptive and inferential statistics to advanced approaches like <b>spatial regression</b>, <b>autocorrelation</b> and <b>variography</b>. Using R, I applied statistical models to explore spatial randomness, clustering and dependencies.'
+    date: "July 1, 2025"
+    url: "/assets/docs/All_Assignments_SpatialStatistics.pdf"
     btn_label: "View Project"
     btn_class: "btn--primary"
   - image_path: "/assets/images/Final_Product_Practical2.png"
     alt: "Practical 2 GIS"
     title: "Mapping Manipulation: Exposing Visual Deception in Data"
-    excerpt: '<strong style="font-size: 1.03em;">Application Development (GIS)</strong><br><br>This <b>infographic</b> was created as part of Practical 2 with <b>R</b> and exposes how spatial data visualizations can be designed to mislead. For transparency, you can find the full R code, including all <b>visual tricks</b> with maps and graphs and their explanations <a href="https://github.com/annabellekiefer/practical2_gis?tab=readme-ov-file" target="_blank" rel="noopener noreferrer">here</a>.'
+    excerpt: '<strong style="font-size: 1.03em;">Application Development (GIS)</strong><br><br>This infographic was created as part of Practical 2 for the Application Development (GIS) course with <b>R</b> and exposes how spatial data visualizations can be designed to mislead. For transparency, the full R code, including all <b>visual tricks</b> with maps and graphs and their explanations, can be found <a href="https://github.com/annabellekiefer/practical2_gis?tab=readme-ov-file" target="_blank" rel="noopener noreferrer">here</a>.'
     date: "May 5, 2025"
     url: "/assets/images/Final_Product_Practical2.png"
     btn_label: "View Project"

@@ -4,7 +4,6 @@ permalink: /certificates2.md/
 layout: splash  # Passe das Layout an, falls nötig
 header:
   overlay_image: /assets/images/weltkugel.jpg
-  overlay_filter: 0.3
 
 feature_row:
   - image_path: "/assets/images/Displaying Raster Data in ArcGIS_Certificate_11122024_page-0001.jpg"

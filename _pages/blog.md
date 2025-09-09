@@ -4,7 +4,6 @@ permalink: /blog.md/
 layout: splash
 header:
   overlay_image: /assets/images/salzburg.png
-  overlay_filter: 0.3
 
 feature_row:
   - image_path: "/assets/images/Internship_Dashboard.png" 
