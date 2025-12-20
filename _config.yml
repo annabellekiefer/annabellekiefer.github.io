@@ -16,11 +16,12 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
+favicon                  : "/assets/images/logoAK.png"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 logo                     : "/assets/images/Logo_h.png"
-title                    : "E-Portfolio"
+title                    : "Annabelle Kiefer"
 title_separator          : "|"
-subtitle                 : "Annabelle Kiefer"
+subtitle                 : "E-Portfolio"
 name                     : "Annabelle Kiefer"
 description              : #"An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"

@@ -6,8 +6,16 @@ header:
   overlay_image: /assets/images/salzburg.png
 
 feature_row:
-  - image_path: "/assets/images/mooc_climateaction.png"
+  - image_path: "/assets/images/mooc_imagery.png"
+  - image_path: "/assets/images/mooc_spatial_data_science.png"
+  - image_path: "/assets/images/mooc_cartography.png"
   - image_path: "/assets/images/mooc_spatialanalysis.png"
+  - image_path: "/assets/images/mooc_climateaction.png"
+
+
+
+  
+
 
 feature_row2:
   - image_path: "/assets/images/ArcGIS_Online_Basics_Certificate_AnnabelleKiefer_page-0001.jpg"

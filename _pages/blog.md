@@ -6,6 +6,14 @@ header:
   overlay_image: /assets/images/salzburg.png
 
 feature_row:
+  - image_path: "/assets/images/newsletter.png" 
+    alt: "Student report"
+    title: Student Report Contribution
+    excerpt: "<strong style='font-size: 1.03em;'>CDE Newsletter</strong><br><br>For the latest edition of the CDE newsletter, I had the opportunity to write a <b>student report</b> reflecting on my <b>undergraduate studies</b> and comparing them with a fellow student’s background. This allowed me to share insights about the integration of EO*GI with environmental sciences and highlighted how the Master’s program has helped me grow."
+    date: "December, 2025"
+    url: https://master-cde.eu/wp-content/uploads/2025/12/2025_08_CDE_newsletter.pdf?fbclid=PAZnRzaAOdBG5leHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAafIZi0v_c9xcYJuO5rRTJG_0Jwfd2ecY_UBYcF2wIGox0Y7vLTkiSVxwsAwGw_aem_4RCQQIBHt33YaqcePS4ihg
+    btn_label: "View Report"
+    btn_class: "btn--primary"
   - image_path: "/assets/images/Internship_Dashboard.png" 
     alt: "Internship report"
     title: Dashboard Applications for Crisis Information

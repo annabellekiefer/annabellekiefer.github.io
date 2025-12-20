@@ -5,6 +5,103 @@ layout: splash
 header:
   overlay_image: /assets/images/salzburg.png
 
+feature_row3:
+  - image_path: "/assets/images/comfortmap.png"
+    alt: "Salzburg ComfortMap"
+    title: "Salzburg ComfortMap on People's Perceptions"
+    excerpt: '<strong style="font-size: 1.03em;">Web Cartography</strong><br><br>For the final project, we developed <b>Salzburg ComfortMap</b>, an interactive web map focused on emotional mapping and people’s perceptions of outdoor comfort in public spaces. Using <b>KoboToolbox</b>, we collected data on thermal comfort and shading, which were then fetched and visualized in a web map with filtering options and statistical summaries.'
+    date: "December 18, 2025"
+    url: https://comfortmap-wc.onrender.com/
+    btn_label: "View Project"
+    btn_class: "btn--primary"
+  - image_path: "/assets/images/poster.jpg"
+    alt: "Poster Design in Geovis"
+    title: "Women in STEM in Germany: Gaps & Growth"
+    excerpt: '<strong style="font-size: 1.03em;">Design in Geovisualization</strong><br><br>For this semester project, I created a poster addressing the <b> underrepresentation of women in STEM fields</b> and its underlying causes. The project uses data visualizations to highlight gender disparities and the importance of role models, including female scientists whose contributions were historically overlooked. In addition, I created a <a href="https://storymaps.arcgis.com/stories/428cea50b32c4d82a21e7d6388213be8" target="_blank"><b>StoryMap</b></a>.'
+    date: "December 12, 2025"
+    url: "/assets/docs/Semester_work_Annabelle.pdf"
+    btn_label: "View Project"
+    btn_class: "btn--primary"
+  - image_path: "/assets/images/multivariate.png"
+    alt: "Multivariate Mapping"
+    title: "Multivariate Mapping & Wurman Dots"
+    excerpt: '<strong style="font-size: 1.03em;">Thematic Cartography</strong><br><br>For this assignment, I explored <b>multivariate mapping</b> using <b>Wurman Dots</b>. The map visualizes the tourism potential of South-Eastern Europe on a 200 km² hexagonal grid by combining the number of tourist attractions and the availability of tourist infrastructure within each cell.'
+    date: "December 11, 2025"
+    url: "/assets/docs/xgtc2025_multivariate_ Kiefer.pdf"
+    btn_label: "View Project"
+    btn_class: "btn--primary"
+  - image_path: "/assets/images/oldmap.png"
+    alt: "Vintage Map"
+    title: "Historical Map of Czechia"
+    excerpt: '<strong style="font-size: 1.03em;">Design in Geovisualization</strong><br><br>For this assignment, I created a <b>historical map of Czechia</b>. The focus was on applying a <b>vintage map design</b> using ArcGIS styles. By adapting color schemes, typography, and symbolization, the map aims to reflect traditional cartographic aesthetics while presenting historical geographic information in an engaging way.'
+    date: "November 30, 2025"
+    url: "/assets/docs/Old_map_Annabelle2.pdf"
+    btn_label: "View Project"
+    btn_class: "btn--primary"
+  - image_path: "/assets/images/dotdensity.png"
+    alt: "Dot Density"
+    title: "Dot Density: Tourism & Gastronomy in Vienna"
+    excerpt: '<strong style="font-size: 1.03em;">Thematic Mapping</strong><br><br>For this assignment, I applied a combination of <b>dot density</b> and <b>choropleth mapping</b> to explore the relationship between tourism intensity and gastronomic infrastructure in Vienna. Guest overnight stays are visualized by district using a choropleth map, while restaurants, cafés, and bars are represented through dot density.'
+    date: "November 27, 2025"
+    url: "/assets/docs/xgtc2025_dots_ Annabelle.pdf"
+    btn_label: "View Project"
+    btn_class: "btn--primary"
+  - image_path: "/assets/images/cartogram.png"
+    alt: "Graduated-Numbers"
+    title: "Graduated-Numbers & Cartogram"
+    excerpt: '<strong style="font-size: 1.03em;">Thematic Mapping</strong><br><br>For this assignment, I used <b>graduated numbers</b> and a <b>cartogram</b> to visualize forest area across the federal states of Germany. The cartogram distorts state sizes according to their absolute forest area, making regions with extensive forests appear enlarged while others shrink.'
+    date: "November 20, 2025"
+    url: "/assets/docs/xgtc2025_population_Kiefer.pdf"
+    btn_label: "View Project"
+    btn_class: "btn--primary"
+  - image_path: "/assets/images/envelopa.png"
+    alt: "Envelopa Map"
+    title: "Map of Envelopa Campus"
+    excerpt: '<strong style="font-size: 1.03em;">Design in Geovisualization</strong><br><br>For this assignment, I designed a <b>map of the Envelopa Campus</b> with a focus on an attractive, advertisement-like style for young audiences. The map applies the university’s color scheme and was my first project created using <b>Affinity</b>, combining cartographic elements and graphic design to produce a visually engaging campus representation.'
+    date: "November 09, 2025"
+    url: "/assets/docs/Envelopa_Kiefer.pdf"
+    btn_label: "View Project"
+    btn_class: "btn--primary"
+  - image_path: "/assets/images/chartmap.png"
+    alt: "Graduated-symbol"
+    title: "Proportional Chart Map of Women in STEM"
+    excerpt: '<strong style="font-size: 1.03em;">Thematic Cartography</strong><br><br>For this assignment, I created a <b>proportional chart map</b> to visualize women’s participation in STEM studies across Germany. Bar charts illustrate gender distribution trends by federal state from 2000 to 2023, while an underlying choropleth map shows the female share of STEM students in 2023.'
+    date: "November 06, 2025"
+    url: "/assets/docs/charts.pdf"
+    btn_label: "View Project"
+    btn_class: "btn--primary"
+  - image_path: "/assets/images/unconventional.png"
+    alt: "Unconventional Map"
+    title: "Unconventional Map: The Realm of Saarland"
+    excerpt: '<strong style="font-size: 1.03em;">Design in Geovisualization</strong><br><br>For this assignment, I created an unconventional map of Saarland, my home region, using custom QGIS styles. Inspired by maps from fantasy books, this map employs a soft, atmospheric color palette and stylized cartographic and terrain elements to evoke a mystical, storybook-like quality.'
+    date: "November 02, 2025"
+    url: "/assets/docs/2025_Kiefer_Saarland.pdf"
+    btn_label: "View Project"
+    btn_class: "btn--primary"
+  - image_path: "/assets/images/choropleth.png"
+    alt: "Choropleth Map"
+    title: "Composite Choropleth Map"
+    excerpt: '<strong style="font-size: 1.03em;">Thematic Mapping</strong><br><br>For this assignment, I designed a composite choropleth map visualizing marriages and divorces per population in Czechia. Using a graduated color scheme as well as hatches, the map simultaneously represents both variables normalized by population, adhering to cartographic best practices for clarity and effective comparison.'
+    date: "October 23, 2025"
+    url: "/assets/docs/xgtc2025_choropleth_Kiefer.pdf"
+    btn_label: "View Project"
+    btn_class: "btn--primary"
+  - image_path: "/assets/images/topographic.png"
+    alt: "Topographic Map"
+    title: "Topographic Map of Trier"
+    excerpt: '<strong style="font-size: 1.03em;">Principles of Geovisualization</strong><br><br>For this assignment, I created a topographic map of Trier, the city where I completed my bachelor degree. Using OSM data, I selected and styled layers typical for topographic maps such as urban areas, parks, roads, railways, and various POIs. Special attention was given to layer ordering to ensure an intuitive and balanced map composition.'
+    date: "October 22, 2025"
+    url: "/assets/docs/xgpg25_topographic_Kiefer.pdf"
+    btn_label: "View Project"
+    btn_class: "btn--primary"
+  - image_path: "/assets/images/transportmap.png"
+    alt: "Transportation Map"
+    title: "Transportation Map of Czechia"
+    excerpt: '<strong style="font-size: 1.03em;">Thematic Mapping</strong><br><br>For this assignment, I designed a map of the transport network of Czechia to practice the use of point, line, and area symbols. Airports, railways, roads, and NUTS3 regions are represented using distinct symbol parameters, with particular emphasis on a clearly structured and well-designed legend to support accurate map interpretation.'
+    date: "October 16, 2025"
+    url: "/assets/docs/xgtc2025_ass1_Kiefer_v2.pdf"
+    btn_label: "View Project"
+    btn_class: "btn--primary"
 feature_row2:
   - image_path: "/assets/images/findmyroute.png"
     alt: "Final project Python"
@@ -127,6 +224,10 @@ feature_row:
     btn_label: "View Project"
     btn_class: "btn--primary"
 ---
+
+<h2>Semester 3</h2>
+
+{% include feature_row id="feature_row3" %}
 
 <h2>Semester 2</h2>
 
