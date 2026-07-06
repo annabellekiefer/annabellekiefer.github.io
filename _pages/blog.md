@@ -6,6 +6,14 @@ header:
   overlay_image: /assets/images/salzburg.png
 
 feature_row:
+  - image_path: "/assets/images/BIP_madrid.png" 
+    alt: "BIP"
+    title: Overtourism in Global Cities 
+    excerpt: "<strong style='font-size: 1.03em;'>Blended Intensive Programme (BIP)</strong><br><br>This is the report for the <b>Blended Intensive Programme (BIP)</b> <i>Overtourism in Global Cities: Impacts, Challenges and Solutions</i> that was hosted by the Universidad Autónoma de Madrid from 10 April to 22 May 2026. The focus was on overtourism's impacts on cities and the drivers behind touristification processes."
+    date: "July, 2026"
+    url: https://water-neptune-01e.notion.site/Overtourism-in-Global-Cities-Impacts-Challenges-and-Solutions-395575839f9f8042a8e6f594b549b3c0
+    btn_label: "View Report"
+    btn_class: "btn--primary"
   - image_path: "/assets/images/newsletter.png" 
     alt: "Student report"
     title: Student Report Contribution
