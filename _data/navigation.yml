@@ -6,6 +6,8 @@ main:
     url: "/assets/docs/CV_Annabelle_Kiefer.pdf"
   - title: "Projects"
     url: /projects.md/
+  - title: "Thesis"
+    url: https://www.geoinformatics.upol.cz/dprace/magisterske/kiefer26/
   - title: "Certificates"
     url: /certificates.md/
   - title: "Blog"
