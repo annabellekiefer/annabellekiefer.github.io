@@ -125,7 +125,7 @@ author:
       new_tab: true
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/annabelle-kiefer-380ba929a/"
+      url: "https://www.linkedin.com/in/annabelle-kiefer/"
       new_tab: true
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
